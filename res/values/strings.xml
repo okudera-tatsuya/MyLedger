@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyManage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- 入力画面 -->
+    <string name="page1">ページ１</string>
+    <string name="title1">入力画面</string>
+    <string name="product_name">名称</string>
+    <string name="product_name_hint">例）林檎、洋服、USB、飲み会費</string>
+    <string name="price">金額</string>
+    <string name="category">カテゴリー</string>
+    <string name="spinner_prompt">カテゴリー一覧</string>
+    <string-array name="spinner_category">
+        <item>食品</item>
+        <item>衣類</item>
+        <item>家電・IT機器</item>
+        <item>娯楽</item>
+    </string-array>
+    <string name="comment">コメント</string>
+    <string name="comment_hint">例）◯◯◯の店でセールで買った</string>
+    <string name="add">登録</string> 
+    <string name="fcost_name">固定費名称</string>
+    <string name="fcost_name_hint">例）家賃、電気代、水道代</string>
+    <string name="fcost_price">固定費金額</string>
+    <string name="fcost_deadline">固定費期限</string>
+    
+    
+    <!-- カレンダー -->
+    <string name="page2">ページ２</string>
+    <string name="title2">カレンダーカレンダー画面</string>
+    
+    <!-- 分析画面 -->
+    <string name="page3">ページ３</string>
+    <string name="title3">分析画面</string>
+
+    <string name="handle">ハンドル</string>
+    
+</resources>
