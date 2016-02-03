@@ -2284,13 +2284,13 @@ containing a value of this type.
         public static final int fcost_price=0x7f0a0023;
         public static final int handle=0x7f0a0029;
         public static final int hello_world=0x7f0a0015;
-        /**  入力画面 
+        /**  page1 入力画面 
          */
         public static final int page1=0x7f0a0017;
-        /**  カレンダー 
+        /**  page2 カレンダー 
          */
         public static final int page2=0x7f0a0025;
-        /**  分析画面 
+        /**  page3 分析画面 
          */
         public static final int page3=0x7f0a0027;
         public static final int price=0x7f0a001b;

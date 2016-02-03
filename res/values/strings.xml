@@ -5,7 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     
-    <!-- 入力画面 -->
+    <!-- page1 入力画面 -->
     <string name="page1">ページ１</string>
     <string name="title1">入力画面</string>
     <string name="product_name">名称</string>
@@ -28,11 +28,11 @@
     <string name="fcost_deadline">固定費期限</string>
     
     
-    <!-- カレンダー -->
+    <!-- page2 カレンダー -->
     <string name="page2">ページ２</string>
     <string name="title2">カレンダーカレンダー画面</string>
     
-    <!-- 分析画面 -->
+    <!-- page3 分析画面 -->
     <string name="page3">ページ３</string>
     <string name="title3">分析画面</string>
 
