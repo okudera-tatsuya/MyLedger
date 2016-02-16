@@ -11,7 +11,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DatabaseHelper extends SQLiteOpenHelper {
 
 	// データベース名、バージョン、テーブル名
-	private final static String DB_NAME = "MyManageDB";
+	private final static String DB_NAME = "MyLegderDB";
 	private final static int DB_VERSION = 1;
 	// 支出、収入、カテゴリーテーブル
 	/**
