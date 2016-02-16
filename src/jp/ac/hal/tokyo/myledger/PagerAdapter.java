@@ -45,7 +45,7 @@ public class PagerAdapter extends android.support.v4.view.PagerAdapter {
 			View view = Inflater.inflate(R.layout.page1, pager, false);
 
 			// ここでリスナーを設定するなど必要な処理も追加する
-
+			
 			// 0番目のページャーにインスタンス化したビューを追加
 			pager.addView(view, 0);
 
